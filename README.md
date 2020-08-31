@@ -1,4 +1,4 @@
-### Tjolahopp 👋
+### Tjolahopp surf is not up!
 
 <!--
 **emmyadolfsen/emmyadolfsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
