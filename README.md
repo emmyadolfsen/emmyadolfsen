@@ -1,16 +1,9 @@
-### Tjolahopp surf is not up!
+# Tjolahopp surf is not up!
 
-<!--
-**emmyadolfsen/emmyadolfsen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:smiley:  I'm currently studying Webbutveckling at MIUN University, Sweden. It is :thumbsup: :green_heart:
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on finding surf in the north..
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Surf
--->
+
+:metal: Cannot live without metal.
+
+:blue_heart: Dreams are filled with surf..
