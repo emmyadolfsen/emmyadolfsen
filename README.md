@@ -1,9 +1,6 @@
 # Tjolahopp surf is not up!
 
-:smiley:  I'm currently studying Webbutveckling at MIUN University, Sweden. It is :thumbsup: :green_heart:
+:smiley:  I'm currently studying Webbutveckling at MIUN University, Sweden. 
+It is :thumbsup:
 
-
-
-:metal: Cannot live without metal.
-
-:blue_heart: Dreams are filled with surf..
+Lives in Vemdalen far from surf but right next to the mountains. As we say here: Relax you´re in fjällen!
