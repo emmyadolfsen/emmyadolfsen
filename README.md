@@ -1,6 +1,8 @@
-# Tjolahopp surf is not up!
+***Emmy Adolfsén
+```
+*Studying Webbutveckling at **MIUN University**, Sweden. 
+*Lives in **Vemdalen**.
+*Latest work: **[Frukteriet]**(https://www.frukteriet.com/)
+```
 
-:smiley:  I'm currently studying Webbutveckling at MIUN University, Sweden. 
-It is :thumbsup:
-
-Lives in Vemdalen far from surf but right next to the mountains. As we say here: Relax you´re in fjällen!
+Tjolahopp surf is not up!
