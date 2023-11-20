@@ -1,6 +1,6 @@
-### Emmy Adolfsén
+  ### Emmy Adolfsén
 
-- Studying Webbutveckling at **MIUN University**, Sweden. 
+- Working at **Promeister Solutions**, Sweden. 
 - Lives in **Vemdalen**.
 - Latest work: [Frukteriet](https://www.frukteriet.com/)
 
